@@ -1,0 +1,33 @@
+## What does this PR do?
+
+This PR is raised to implement the following features: 👍 :
+
+- [x] Create app.rb
+- [x] Create main.rb
+
+## Description of the task to be completed ↓↓ 
+
+- Build interactive console app.
+
+## How to run 
+
+Clone the repository
+```
+git clone https://github.com/SamTush/school-library.git
+```
+Navigate to the folder
+```
+cd school-library
+```
+Checkout the branch
+```
+git checkout feature/add-ui
+```
+
+## How to start the app
+
+```
+  ruby main.rb
+```
+
+#### Thanks for reviewing my PR 😊
